@@ -10,6 +10,8 @@ Designed for students, small projects, and anyone who wants their code to look c
 
 ### Why This Exists
 
+<img width="1280" height="718" alt="image" src="https://github.com/user-attachments/assets/a4659496-b132-4e4d-bcab-54bea3e48dfd" />
+
 Sometimes you are just using AI for assignments.
 Sometimes the code works perfectly.
 Sometimes an emoji, comment, or weird spacing raises unnecessary questions.
